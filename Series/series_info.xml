@@ -1,0 +1,315 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="series_info">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="id" type="xs:int" minOccurs="0" />
+                <xs:element name="fecha" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="serie" type="xs:string" minOccurs="0" />
+                <xs:element name="idioma" type="xs:string" minOccurs="0" />
+                <xs:element name="subtitulo" type="xs:string" minOccurs="0" />
+                <xs:element name="temporada" type="xs:int" minOccurs="0" />
+                <xs:element name="episodios" type="xs:int" minOccurs="0" />
+                <xs:element name="enlace" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <series_info>
+    <id>1</id>
+    <fecha>2025-05-11T00:00:00+02:00</fecha>
+    <serie>La niña robada (The Stolen Girl) 2025</serie>
+    <idioma>Latino</idioma>
+    <subtitulo>No</subtitulo>
+    <temporada>1</temporada>
+    <episodios>5</episodios>
+    <enlace>https://t.me/series_latino_2025/4</enlace>
+  </series_info>
+  <series_info>
+    <id>2</id>
+    <fecha>2025-05-12T00:00:00+02:00</fecha>
+    <serie>Atrapados</serie>
+    <idioma>Latino</idioma>
+    <subtitulo>No</subtitulo>
+    <temporada>1</temporada>
+    <episodios>6</episodios>
+    <enlace>https://t.me/series_latino_2025/10</enlace>
+  </series_info>
+  <series_info>
+    <id>3</id>
+    <fecha>2025-05-12T00:00:00+02:00</fecha>
+    <serie>The Last of Us</serie>
+    <idioma>Latino</idioma>
+    <subtitulo>No</subtitulo>
+    <temporada>1</temporada>
+    <episodios>9</episodios>
+    <enlace>https://t.me/series_latino_2025/17</enlace>
+  </series_info>
+  <series_info>
+    <id>4</id>
+    <fecha>2025-05-12T00:00:00+02:00</fecha>
+    <serie>The Last of Us</serie>
+    <idioma>Latino</idioma>
+    <subtitulo>No</subtitulo>
+    <temporada>2</temporada>
+    <episodios>7</episodios>
+    <enlace>https://t.me/series_latino_2025/26</enlace>
+  </series_info>
+  <series_info>
+    <id>5</id>
+    <fecha>2025-05-12T00:00:00+02:00</fecha>
+    <serie>Watson</serie>
+    <idioma>Inglés</idioma>
+    <subtitulo>Si</subtitulo>
+    <temporada>1</temporada>
+    <episodios>10</episodios>
+    <enlace>https://t.me/series_subtitulos_2025/4</enlace>
+  </series_info>
+  <series_info>
+    <id>6</id>
+    <fecha>2025-05-12T00:00:00+02:00</fecha>
+    <serie>The Last of Us</serie>
+    <idioma>Inglés</idioma>
+    <subtitulo>Si</subtitulo>
+    <temporada>2</temporada>
+    <episodios>7</episodios>
+    <enlace>https://t.me/series_subtitulos_2025/15</enlace>
+  </series_info>
+  <series_info>
+    <id>7</id>
+    <fecha>2025-05-14T00:00:00+02:00</fecha>
+    <serie>La niña robada (The Stolen Girl) 2025</serie>
+    <idioma>Inglés</idioma>
+    <subtitulo>Si</subtitulo>
+    <temporada>1</temporada>
+    <episodios>5</episodios>
+    <enlace>https://t.me/series_subtitulos_2025/23</enlace>
+  </series_info>
+  <series_info>
+    <id>8</id>
+    <fecha>2025-05-11T00:00:00+02:00</fecha>
+    <serie>La niña robada (The Stolen Girl) 2025</serie>
+    <idioma>Castellano</idioma>
+    <subtitulo>No</subtitulo>
+    <temporada>1</temporada>
+    <episodios>5</episodios>
+    <enlace>https://t.me/series_castellano_2025/10</enlace>
+  </series_info>
+  <series_info>
+    <id>9</id>
+    <fecha>2025-05-12T00:00:00+02:00</fecha>
+    <serie>Watson</serie>
+    <idioma>Castellano</idioma>
+    <subtitulo>No</subtitulo>
+    <temporada>1</temporada>
+    <episodios>10</episodios>
+    <enlace>https://t.me/series_castellano_2025/58</enlace>
+  </series_info>
+  <series_info>
+    <id>10</id>
+    <fecha>2025-05-12T00:00:00+02:00</fecha>
+    <serie>The Last of Us</serie>
+    <idioma>Castellano</idioma>
+    <subtitulo>No</subtitulo>
+    <temporada>1</temporada>
+    <episodios>9</episodios>
+    <enlace>https://t.me/series_castellano_2025/69</enlace>
+  </series_info>
+  <series_info>
+    <id>11</id>
+    <fecha>2025-05-12T00:00:00+02:00</fecha>
+    <serie>The Last of Us</serie>
+    <idioma>Castellano</idioma>
+    <subtitulo>No</subtitulo>
+    <temporada>2</temporada>
+    <episodios>7</episodios>
+    <enlace>https://t.me/series_castellano_2025/78</enlace>
+  </series_info>
+  <series_info>
+    <id>12</id>
+    <fecha>2025-05-12T00:00:00+02:00</fecha>
+    <serie>La Rueda del Tiempo</serie>
+    <idioma>Castellano</idioma>
+    <subtitulo>No</subtitulo>
+    <temporada>1</temporada>
+    <episodios>8</episodios>
+    <enlace>https://t.me/series_castellano_2025/86</enlace>
+  </series_info>
+  <series_info>
+    <id>13</id>
+    <fecha>2025-05-12T00:00:00+02:00</fecha>
+    <serie>La Rueda del Tiempo</serie>
+    <idioma>Castellano</idioma>
+    <subtitulo>No</subtitulo>
+    <temporada>2</temporada>
+    <episodios>8</episodios>
+    <enlace>https://t.me/series_castellano_2025/94</enlace>
+  </series_info>
+  <series_info>
+    <id>14</id>
+    <fecha>2025-05-12T00:00:00+02:00</fecha>
+    <serie>La Rueda del Tiempo</serie>
+    <idioma>Castellano</idioma>
+    <subtitulo>No</subtitulo>
+    <temporada>3</temporada>
+    <episodios>8</episodios>
+    <enlace>https://t.me/series_castellano_2025/105</enlace>
+  </series_info>
+  <series_info>
+    <id>15</id>
+    <fecha>2025-05-13T00:00:00+02:00</fecha>
+    <serie>El cuento de la criada (The Handmaids Tale)</serie>
+    <idioma>Castellano</idioma>
+    <subtitulo>No</subtitulo>
+    <temporada>1</temporada>
+    <episodios>10</episodios>
+    <enlace>https://t.me/series_castellano_2025/114</enlace>
+  </series_info>
+  <series_info>
+    <id>16</id>
+    <fecha>2025-05-13T00:00:00+02:00</fecha>
+    <serie>El cuento de la criada (The Handmaids Tale)</serie>
+    <idioma>Castellano</idioma>
+    <subtitulo>No</subtitulo>
+    <temporada>2</temporada>
+    <episodios>13</episodios>
+    <enlace>https://t.me/series_castellano_2025/126</enlace>
+  </series_info>
+  <series_info>
+    <id>17</id>
+    <fecha>2025-05-13T00:00:00+02:00</fecha>
+    <serie>El cuento de la criada (The Handmaids Tale)</serie>
+    <idioma>Castellano</idioma>
+    <subtitulo>No</subtitulo>
+    <temporada>3</temporada>
+    <episodios>13</episodios>
+    <enlace>https://t.me/series_castellano_2025/140</enlace>
+  </series_info>
+  <series_info>
+    <id>18</id>
+    <fecha>2025-05-13T00:00:00+02:00</fecha>
+    <serie>El cuento de la criada (The Handsmaid Tale)</serie>
+    <idioma>Castellano</idioma>
+    <subtitulo>No</subtitulo>
+    <temporada>4</temporada>
+    <episodios>10</episodios>
+    <enlace>https://t.me/series_castellano_2025/154</enlace>
+  </series_info>
+  <series_info>
+    <id>19</id>
+    <fecha>2025-05-13T00:00:00+02:00</fecha>
+    <serie>Materia Oscura (Dark Matter)</serie>
+    <idioma>Castellano</idioma>
+    <subtitulo>No</subtitulo>
+    <temporada>1</temporada>
+    <episodios>9</episodios>
+    <enlace>https://t.me/series_castellano_2025/165</enlace>
+  </series_info>
+  <series_info>
+    <id>20</id>
+    <fecha>2025-05-14T00:00:00+02:00</fecha>
+    <serie>La Favorita 1922</serie>
+    <idioma>Castellano</idioma>
+    <subtitulo>No</subtitulo>
+    <temporada>1</temporada>
+    <episodios>8</episodios>
+    <enlace>https://t.me/series_castellano_2025/184</enlace>
+  </series_info>
+  <series_info>
+    <id>21</id>
+    <fecha>2025-05-14T00:00:00+02:00</fecha>
+    <serie>El hombre en el castillo (The Man in the High Castle)</serie>
+    <idioma>Castellano</idioma>
+    <subtitulo>No</subtitulo>
+    <temporada>1</temporada>
+    <episodios>10</episodios>
+    <enlace>https://t.me/series_castellano_2025/193</enlace>
+  </series_info>
+  <series_info>
+    <id>22</id>
+    <fecha>2025-05-14T00:00:00+02:00</fecha>
+    <serie>El hombre en el castillo (The Man in the High Castle)</serie>
+    <idioma>Castellano</idioma>
+    <subtitulo>No</subtitulo>
+    <temporada>2</temporada>
+    <episodios>10</episodios>
+    <enlace>https://t.me/series_castellano_2025/204</enlace>
+  </series_info>
+  <series_info>
+    <id>23</id>
+    <fecha>2025-05-15T00:00:00+02:00</fecha>
+    <serie>El hombre en el castillo (The Man in the High Castle)</serie>
+    <idioma>Castellano</idioma>
+    <subtitulo>No</subtitulo>
+    <temporada>3</temporada>
+    <episodios>10</episodios>
+    <enlace>https://t.me/series_castellano_2025/233</enlace>
+  </series_info>
+  <series_info>
+    <id>24</id>
+    <fecha>2025-05-15T00:00:00+02:00</fecha>
+    <serie>El hombre en el castillo (The Man in the High Castle)</serie>
+    <idioma>Castellano</idioma>
+    <subtitulo>No</subtitulo>
+    <temporada>1</temporada>
+    <episodios>10</episodios>
+    <enlace>https://t.me/series_castellano_2025/244</enlace>
+  </series_info>
+  <series_info>
+    <id>25</id>
+    <fecha>2025-05-17T00:00:00+02:00</fecha>
+    <serie>Juego de Tronos</serie>
+    <idioma>Castellano</idioma>
+    <subtitulo>No</subtitulo>
+    <temporada>1</temporada>
+    <episodios>10</episodios>
+    <enlace>https://t.me/series_castellano_2025/256</enlace>
+  </series_info>
+  <series_info>
+    <id>26</id>
+    <fecha>2025-05-17T00:00:00+02:00</fecha>
+    <serie>Juego de Tronos</serie>
+    <idioma>Latino</idioma>
+    <subtitulo>No</subtitulo>
+    <temporada>1</temporada>
+    <episodios>10</episodios>
+    <enlace>https://t.me/series_latino_2025/36</enlace>
+  </series_info>
+  <series_info>
+    <id>27</id>
+    <fecha>2025-05-17T00:00:00+02:00</fecha>
+    <serie>Game of Thrones</serie>
+    <idioma>Inglés</idioma>
+    <subtitulo>srt</subtitulo>
+    <temporada>1</temporada>
+    <episodios>10</episodios>
+    <enlace>https://t.me/series_subtitulos_2025/31</enlace>
+  </series_info>
+  <series_info>
+    <id>28</id>
+    <fecha>2025-05-17T00:00:00+02:00</fecha>
+    <serie>Euphoria</serie>
+    <idioma>Castellano</idioma>
+    <subtitulo>No</subtitulo>
+    <temporada>1</temporada>
+    <episodios>9</episodios>
+    <enlace>https://t.me/series_castellano_2025/266</enlace>
+  </series_info>
+  <series_info>
+    <id>29</id>
+    <fecha>2025-05-18T00:00:00+02:00</fecha>
+    <serie>Euphoria</serie>
+    <idioma>Castellano</idioma>
+    <subtitulo>No</subtitulo>
+    <temporada>2</temporada>
+    <episodios>8</episodios>
+    <enlace>https://t.me/series_castellano_2025/276</enlace>
+  </series_info>
+</NewDataSet>
